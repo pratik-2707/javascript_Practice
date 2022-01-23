@@ -1,0 +1,35 @@
+.d {
+    border-color: black;
+    border-width: thick;
+    /* background-color: aqua; */
+    position: static;
+    /* margin: 5% 0; */
+    padding: 1em;
+    border-width: thick;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 2rem;
+}
+
+.e {
+    border: red;
+    border-width: thick;
+    position: static;
+    /* margin: 5% 0; */
+    padding: 1em;
+    border-width: thick;
+    margin: auto;
+    width: 50%;
+    margin-bottom: 2rem;
+}
+
+.d-a {
+    background-color: aquamarine;
+}
+
+
+/* changing cursor to pointer when hover over image */
+
+#bulbpic {
+    cursor: pointer;
+}
